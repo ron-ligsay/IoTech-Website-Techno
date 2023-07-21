@@ -13,4 +13,75 @@
     position: relative;
     width: 1920px;
   }
+  .frame .navbar {
+    height: 90px;
+    left: 0;
+    position: absolute;
+    top: 19px;
+    width: 1270px;
+  }
   
+  .frame .rectangle {
+    height: 90px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 284px;
+  }
+
+  .frame .text-wrapper {
+    color: #1e1e1e;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 261px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 14px;
+    width: 271px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: #1e1e1e;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 508px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 14px;
+    width: 271px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #1e1e1e;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 757px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 14px;
+    width: 271px;
+  }
+  
+  .frame .text-wrapper-4 {
+    color: #1e1e1e;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 999px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 14px;
+    width: 271px;
+  }

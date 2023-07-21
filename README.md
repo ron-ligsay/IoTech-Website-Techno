@@ -24,4 +24,9 @@ npm start
 3. Fill up the form
 4. Click the "Submit" button
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Authors
+- [Aron Ligsay]()
+- [Kristof Pambid]()

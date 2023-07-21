@@ -50,7 +50,17 @@ export const Frame = () => {
         <div className="rectangle-14" />
         <div className="rectangle-15" />
         <div className="overlap-group">
+        <div className="overlap-2">
+            <p className="text-wrapper-16">Get the best products and expert advice without ever leaving your couch.</p>
+            <p className="text-wrapper-17">
+              Book an OnTech expert today and we’ll bring the store to you. Compare products, make your purchase, and
+              let us handle the installation.
+            </p>
+          </div>
+          <div className="rectangle-16" />
         </div>
+        </div>
+        <div className="overlap-group1">
       <div className="div-2">
         <div className="rectangle-2" />
         <div className="overlap">

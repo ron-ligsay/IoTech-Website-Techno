@@ -1,10 +1,9 @@
 import React from "react";
-
+import "./style.css";
 
 export const Frame = () => {
   return (
     <div className="frame">
-      <div className="frame">
       <div className="div">
         <div className="navbar">
           <img className="rectangle" alt="Rectangle" src="rectangle-33.png" />
@@ -17,12 +16,10 @@ export const Frame = () => {
           <img className="img" alt="Rectangle" src="rectangle-34.png" />
           <p className="p">Total control with the rebuilt IoTech website.</p>
         </div>
-        </div>
         <h1 className="stay-connected-be">
           Stay Connected,
           <br />
           Be Connected.
-        </h1>
         </h1>
         <p className="text-wrapper-5">Total control with the rebuilt IoTech website.</p>
         <div className="rectangle-2" />
@@ -50,7 +47,7 @@ export const Frame = () => {
         <div className="rectangle-14" />
         <div className="rectangle-15" />
         <div className="overlap-group">
-        <div className="overlap-2">
+          <div className="overlap-2">
             <p className="text-wrapper-16">Get the best products and expert advice without ever leaving your couch.</p>
             <p className="text-wrapper-17">
               Book an OnTech expert today and we’ll bring the store to you. Compare products, make your purchase, and
@@ -79,20 +76,24 @@ export const Frame = () => {
           <div className="rectangle-25" />
           <div className="rectangle-26" />
         </div>
-        </div>
-        <div className="overlap-group1">
-      <div className="div-2">
-        <div className="rectangle-2" />
-        <div className="overlap">
-        </div>
-        <div className="overlap-2">
-          
-        </div>
-        <p className="p">Your Helpful Home Starts Here</p>
         <div className="overlap-4">
-          
-        </div>   
+          <div className="text-wrapper-26">SATISFACTION GUARANTEED</div>
+          <p className="text-wrapper-27">We want you to love your OnTech experience.</p>
         </div>
+        <p className="text-wrapper-28">
+          If for any reason you’re not 100% satisfied, we’ll work with you until we get it right.
+        </p>
+        <div className="stay-connected-be-2">
+          Stay Connected,
+          <br />
+          Be Connected.
+        </div>
+        <div className="rectangle-27" />
+        <div className="rectangle-28" />
+        <div className="rectangle-29" />
+        <div className="rectangle-30" />
+        <div className="rectangle-31" />
+      </div>
     </div>
   );
 };

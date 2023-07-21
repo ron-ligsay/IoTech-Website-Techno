@@ -59,6 +59,26 @@ export const Frame = () => {
           </div>
           <div className="rectangle-16" />
         </div>
+        <div className="rectangle-17" />
+        <div className="rectangle-18" />
+        <div className="rectangle-19" />
+        <div className="rectangle-20" />
+        <div className="rectangle-21" />
+        <div className="text-wrapper-18">Speakers</div>
+        <div className="text-wrapper-19">Speakers</div>
+        <div className="text-wrapper-20">Speakers</div>
+        <div className="text-wrapper-21">Speakers</div>
+        <div className="text-wrapper-22">Speakers</div>
+        <p className="text-wrapper-23">Organize our favorites in a single tab.</p>
+        <p className="text-wrapper-24">Organize our favorites in a single tab.</p>
+        <p className="text-wrapper-25">Organize our favorites in a single tab.</p>
+        <div className="rectangle-22" />
+        <div className="overlap-3">
+          <div className="rectangle-23" />
+          <div className="rectangle-24" />
+          <div className="rectangle-25" />
+          <div className="rectangle-26" />
+        </div>
         </div>
         <div className="overlap-group1">
       <div className="div-2">

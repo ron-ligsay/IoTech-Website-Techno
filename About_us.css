@@ -1,0 +1,261 @@
+.desktop {
+    background-color: #212121;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #212121;
+    border: 1px none;
+    height: 5301px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktop .gesture-nexus-LOGO {
+    height: 86px;
+    left: 33px;
+    position: absolute;
+    top: 34px;
+    width: 229px;
+  }
+  
+  .desktop .vector {
+    height: 26px;
+    left: 1345px;
+    position: absolute;
+    top: 32px;
+    width: 62px;
+  }
+  
+  .desktop .overlap {
+    height: 1348px;
+    left: 98px;
+    position: absolute;
+    top: 166px;
+    width: 1272px;
+  }
+  
+  .desktop .overlap-group {
+    height: 1175px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1272px;
+  }
+  
+  .desktop .rectangle {
+    background: linear-gradient(180deg, rgb(0, 70, 255) 0%, rgba(22, 40, 77, 0.54) 100%);
+    height: 32px;
+    left: 333px;
+    position: absolute;
+    top: 138px;
+    width: 483px;
+  }
+  
+  .desktop .rectangle-2 {
+    background: linear-gradient(180deg, rgb(0, 70, 255) 0%, rgba(22, 40, 77, 0.54) 100%);
+    height: 32px;
+    left: 207px;
+    position: absolute;
+    top: 227px;
+    width: 282px;
+  }
+  
+  .desktop .rectangle-3 {
+    background: linear-gradient(180deg, rgb(0, 70, 255) 0%, rgba(22, 40, 77, 0.54) 100%);
+    height: 32px;
+    left: 476px;
+    position: absolute;
+    top: 316px;
+    width: 270px;
+  }
+  
+  .desktop .https-lottiefiles {
+    height: 775px;
+    left: 836px;
+    position: absolute;
+    top: 0;
+    width: 436px;
+  }
+  
+  .desktop .we-are-a-propellant {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 117px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    width: 913px;
+  }
+  
+  .desktop .text-wrapper {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 117px;
+    font-weight: 500;
+    letter-spacing: 0;
+  }
+  
+  .desktop .span {
+    font-size: 65px;
+  }
+  
+  .desktop .img {
+    height: 421px;
+    left: 652px;
+    position: absolute;
+    top: 754px;
+    width: 245px;
+  }
+  
+  .desktop .rectangle-4 {
+    height: 421px;
+    left: 20px;
+    position: absolute;
+    top: 703px;
+    width: 245px;
+  }
+  
+  .desktop .rectangle-5 {
+    height: 421px;
+    left: 338px;
+    position: absolute;
+    top: 876px;
+    width: 245px;
+  }
+  
+  .desktop .rectangle-6 {
+    height: 421px;
+    left: 974px;
+    position: absolute;
+    top: 927px;
+    width: 245px;
+  }
+  
+  .desktop .overlap-2 {
+    height: 742px;
+    left: 59px;
+    position: absolute;
+    top: 1572px;
+    width: 1529px;
+  }
+  
+  .desktop .the-art-of-branding {
+    color: #ffffff;
+    font-family: "Abhaya Libre-Bold", Helvetica;
+    font-size: 119px;
+    font-weight: 700;
+    height: 124px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 1169px;
+  }
+  
+  .desktop .at-gesture-nexus-we {
+    color: #ffffffdb;
+    font-family: "Poppins-Light", Helvetica;
+    font-size: 37px;
+    font-weight: 300;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 158px;
+    width: 1266px;
+  }
+  
+  .desktop .lingkaran {
+    height: 457px;
+    left: 1072px;
+    position: absolute;
+    top: 93px;
+    width: 457px;
+  }
+  
+  .desktop .overlap-group-2 {
+    border-radius: 229.5px;
+    height: 459px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 459px;
+  }
+  
+  .desktop .ellipse {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 46.7px;
+    height: 93px;
+    left: 183px;
+    position: absolute;
+    top: 183px;
+    width: 93px;
+  }
+  
+  .desktop .ellipse-2 {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 77.17px;
+    height: 154px;
+    left: 152px;
+    position: absolute;
+    top: 152px;
+    width: 154px;
+  }
+  
+  .desktop .ellipse-3 {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 107.63px;
+    height: 215px;
+    left: 122px;
+    position: absolute;
+    top: 122px;
+    width: 215px;
+  }
+  
+  .desktop .ellipse-4 {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 138.1px;
+    height: 276px;
+    left: 91px;
+    position: absolute;
+    top: 91px;
+    width: 276px;
+  }
+  
+  .desktop .ellipse-5 {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 168.57px;
+    height: 337px;
+    left: 61px;
+    position: absolute;
+    top: 61px;
+    width: 337px;
+  }
+  
+  .desktop .ellipse-6 {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 199.03px;
+    height: 398px;
+    left: 30px;
+    position: absolute;
+    top: 30px;
+    width: 398px;
+  }
+  
+ 

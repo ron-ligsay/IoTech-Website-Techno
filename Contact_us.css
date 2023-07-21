@@ -1,0 +1,232 @@
+.contact-us {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .contact-us .overlap-group-wrapper {
+    background-image: url(./rectangle-1117.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border: 1px none;
+    height: 597px;
+    width: 980px;
+  }
+  
+  .contact-us .overlap-group {
+    height: 597px;
+    position: relative;
+  }
+  
+  .contact-us .rectangle {
+    background-color: #1e1e1e;
+    height: 597px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 536px;
+  }
+  
+  .contact-us .div {
+    background-color: #ff5501;
+    height: 215px;
+    left: 703px;
+    position: absolute;
+    top: 382px;
+    width: 277px;
+  }
+  
+  .contact-us .rectangle-2 {
+    border: 2px solid;
+    border-color: transparent;
+    border-image: linear-gradient(to bottom, rgb(183, 65, 14), rgb(177.44, 15.68, 111.2)) 1;
+    height: 501px;
+    left: 48px;
+    position: absolute;
+    top: 48px;
+    width: 884px;
+  }
+  
+  .contact-us .rectangle-3 {
+    background-color: #1e1e1e;
+    height: 95px;
+    left: 113px;
+    position: absolute;
+    top: 13px;
+    width: 360px;
+  }
+  
+  .contact-us .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 50px;
+    font-weight: 600;
+    left: 123px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+  }
+  
+  .contact-us .rectangle-4 {
+    border: 1px solid;
+    border-color: #ffffff;
+    height: 71px;
+    left: 123px;
+    position: absolute;
+    top: 150px;
+    width: 338px;
+  }
+  
+  .contact-us .rectangle-5 {
+    border: 1px solid;
+    border-color: #ffffff;
+    height: 71px;
+    left: 123px;
+    position: absolute;
+    top: 247px;
+    width: 338px;
+  }
+  
+  .contact-us .rectangle-6 {
+    border: 1px solid;
+    border-color: #ffffff;
+    height: 71px;
+    left: 123px;
+    position: absolute;
+    top: 354px;
+    width: 338px;
+  }
+  
+  .contact-us .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 155px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 170px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 155px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 267px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 156px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 374px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .rectangle-7 {
+    background-color: #ff5501;
+    height: 37px;
+    left: 420px;
+    position: absolute;
+    top: 411px;
+    width: 82px;
+  }
+  
+  .contact-us .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    left: 436px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 417px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .vector {
+    height: 46px;
+    left: 767px;
+    position: absolute;
+    top: 264px;
+    width: 38px;
+  }
+  
+  .contact-us .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 25px;
+    font-weight: 300;
+    left: 740px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 408px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 15px;
+    font-weight: 300;
+    left: 740px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 448px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 15px;
+    font-weight: 300;
+    left: 740px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 476px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 15px;
+    font-weight: 300;
+    left: 740px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 499px;
+    white-space: nowrap;
+  }
+  
+  .contact-us .rectangle-8 {
+    background-color: #f8f9fa;
+    height: 12px;
+    left: 706px;
+    position: absolute;
+    top: 211px;
+    width: 55px;
+  }
+  

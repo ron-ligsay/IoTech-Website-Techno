@@ -1,0 +1,203 @@
+.cover {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .cover .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 960px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .cover .overlap-group {
+    height: 261px;
+    left: 160px;
+    position: absolute;
+    top: 72px;
+    width: 367px;
+  }
+  
+  .cover .bagzz-shopping-app {
+    color: var(--gray-1);
+    font-family: "Work Sans-ExtraBold", Helvetica;
+    font-size: 110px;
+    font-weight: 400;
+    height: 204px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 209px;
+    position: absolute;
+    top: 57px;
+    white-space: nowrap;
+    width: 367px;
+  }
+  
+  .cover .text-wrapper {
+    font-weight: 800;
+  }
+  
+  .cover .span {
+    font-family: "Work Sans-Bold", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 60.8px;
+  }
+  
+  .cover .group {
+    height: 91px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 59px;
+  }
+  
+  .cover .a-free-UI-kit-by {
+    color: var(--gray-1);
+    font-family: "Work Sans-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    height: 43px;
+    left: 160px;
+    letter-spacing: 0;
+    line-height: 43.1px;
+    position: absolute;
+    top: 359px;
+    white-space: nowrap;
+  }
+  
+  .cover .text-wrapper-2 {
+    color: #333333;
+    font-family: "Work Sans-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 43.1px;
+  }
+  
+  .cover .text-wrapper-3 {
+    text-decoration: underline;
+  }
+  
+  .cover .join-the-IG-wrapper {
+    height: 72px;
+    left: 160px;
+    position: absolute;
+    top: 815px;
+    width: 541px;
+  }
+  
+  .cover .join-the-IG {
+    color: var(--gray-1);
+    font-family: "Work Sans-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 72px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 35.9px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .cover .text-wrapper-4 {
+    font-weight: 500;
+  }
+  
+  .cover .text-wrapper-5 {
+    font-family: "Work Sans-Bold", Helvetica;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+  
+  .cover .text-wrapper-6 {
+    font-weight: 500;
+    text-decoration: underline;
+  }
+  
+  .cover .frame {
+    align-items: center;
+    background-color: var(--gray-1);
+    border-radius: 67px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 505px;
+    padding: 16px 32px;
+    position: absolute;
+    top: 565px;
+  }
+  
+  .cover .text-wrapper-7 {
+    color: var(--white);
+    font-family: "Open Sans-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 37.4px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .cover .div-wrapper {
+    align-items: center;
+    background-color: var(--gray-1);
+    border-radius: 67px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 160px;
+    padding: 16px 32px;
+    position: absolute;
+    top: 565px;
+  }
+  
+  .cover .frame-2 {
+    align-items: center;
+    background-color: var(--gray-1);
+    border-radius: 67px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 160px;
+    padding: 16px 32px;
+    position: absolute;
+    top: 480px;
+  }
+  
+  .cover .frame-3 {
+    align-items: center;
+    background-color: var(--gray-1);
+    border-radius: 67px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 477px;
+    padding: 16px 32px;
+    position: absolute;
+    top: 480px;
+  }
+  
+  .cover .screen-CHANGE-ME {
+    height: 773px;
+    left: 1346px;
+    position: absolute;
+    top: 121px;
+    width: 424px;
+  }
+  
+  .cover .screencast {
+    height: 797px;
+    left: 906px;
+    object-fit: cover;
+    position: absolute;
+    top: 72px;
+    width: 397px;
+  }
+  
